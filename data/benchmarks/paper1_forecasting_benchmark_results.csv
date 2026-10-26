@@ -1,0 +1,7 @@
+Horizon,Model,R2,RMSE,MAE,Train_N,Test_N
+1h,Naive Persistence,0.9344,9.31,4.73,8090,6869
+1h,Ridge Autoregressive,0.9401,8.89,4.65,8090,6869
+1h,HistGradientBoosting,0.9408,8.84,4.8,8090,6869
+24h,Naive Persistence,0.6371,22.13,13.94,7947,6725
+24h,Ridge Autoregressive,0.7138,19.65,13.05,7947,6725
+24h,HistGradientBoosting,0.6863,20.57,13.95,7947,6725
